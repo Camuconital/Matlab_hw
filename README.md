@@ -1,5 +1,5 @@
 # Matlab_hw
-matlab homework
+matlab homework，use MATLAB R2022b.
 ## Section B: Simulation Tasks [60%]:
 
 ### Task 1: Speech Recording, Sampling, and Quantization in Simulink [15%]
